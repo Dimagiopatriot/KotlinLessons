@@ -1,4 +1,4 @@
-# KotlinLessons
+# Kotlin lessons
 Start to learn Kotlin.
 
 Kotlin lessons, inspired by DevColibri project
