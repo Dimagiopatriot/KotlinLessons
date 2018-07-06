@@ -4,7 +4,8 @@ fun main(args: Array<String>) {
 
     var v1: BaseTemplate = ATemplate()
 
-    v1.a()
-    v1.minus()
-    v1.a()
+    //count = 0
+    v1.a() //count++: count = 1
+    v1.minus() //count--: count = 0
+    v1.a() //count++: count = 1
 }
